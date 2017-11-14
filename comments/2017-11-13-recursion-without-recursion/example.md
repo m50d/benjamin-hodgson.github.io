@@ -5,3 +5,10 @@ published: 2017-11-13
 ---
 
 To join the discussion, <a href="https://github.com/benjamin-hodgson/benjamin-hodgson.github.io/blob/develop/comments/2017-11-13-recursion-without-recursion/example.md">send me a pull request</a>.
+
+---
+author: lmm
+website: https://m50d.github.io
+---
+
+You should look at recursion-schemes if you haven't already.
